@@ -1,0 +1,110 @@
+YES or NO
+Do you like cats?
+Do you like dogs?
+Do you like pizza?
+Do you use Android?
+Do you like ice cream?
+Do you like instagram?
+Are you a twin or triplet?
+Are you afraid of heights?
+Are you good with insects?
+Do you enjoy reading comic books?
+Is basketball your favorite sport?
+Have you ever been on a camping trip?
+Is computer programming interesting to you?
+Do you have a favorite subject in school?
+Have you ever won a game of chess?
+Is playing board games something you like?
+Do you have a favorite type of music?
+Have you ever tried a new type of food and liked it?
+Is riding a bike something you enjoy?
+Do you like watching animated movies?
+Have you ever been on a roller-skating rink?
+Is social studies your favorite subject?
+Do you enjoy solving riddles?
+Have you ever visited a science museum?
+Is soccer your favorite outdoor game?
+Do you like going to the park?
+Have you ever been in a school talent show?
+Is art class something you look forward to?
+Do you enjoy writing stories or poems?
+Have you ever been to a sports game?
+Is making new friends important to you?
+Do you like playing video games with friends?
+Have you ever performed in a school play?
+Is swimming one of your favorite activities?
+Do you enjoy going to the library?
+Have you ever been to a theme park?
+Is learning about space interesting to you?
+Do you have a favorite type of movie?
+Have you ever played a musical instrument?
+Is building things with blocks fun for you?
+Do you like attending school events?
+Have you ever tried a water sport?
+Is playing with pets something you enjoy?
+Do you like helping with household chores?
+Have you ever been to a historical landmark?
+Is science fiction your favorite genre?
+Do you enjoy participating in school clubs?
+Have you ever tried a foreign language?
+Is camping in the backyard something you've done?
+Do you like solving math problems for fun?
+Have you ever been to a concert or live performance?
+Is making art with recycled materials something you enjoy?
+Do you have a favorite season?
+Have you ever been to an amusement park?
+Is drama class something you find interesting?
+Do you enjoy writing in a journal?
+Have you ever taken a dance class?
+Is astronomy something you're curious about?
+Do you like playing trivia games?
+Have you ever visited a planetarium?
+Is playing an instrument in a band appealing to you?
+Do you enjoy going to the beach?
+Have you ever tried a new hobby and liked it?
+Is cooking or baking something you like to do?
+Do you like going to the movies with friends?
+Have you ever been to a sports camp?
+Is taking photographs something you enjoy?
+Do you like going on nature walks?
+Have you ever been on a family road trip?
+Is computer gaming something you enjoy?
+Do you like attending school dances?
+Have you ever tried a new board game and enjoyed it?
+Is making your own music playlists something you do?
+Do you enjoy going to science fairs?
+Have you ever participated in a debate?
+Is playing a sport competitively appealing to you?
+Do you enjoy watching documentaries?
+Have you ever tried a new type of exercise and liked it?
+Is photography something you're interested in?
+Do you like going to the zoo?
+Have you ever tried a new craft or DIY project?
+Is geography one of your favorite subjects?
+Do you enjoy going to birthday parties?
+Have you ever been on a school field trip?
+Is gardening something you find relaxing?
+Do you like playing card games?
+Have you ever attended a science camp?
+Is playing a musical instrument something you excel at?
+Do you enjoy going to art galleries?
+Have you ever tried a new sport and enjoyed it?
+Is volunteering something you're interested in?
+Do you like going to theme parties?
+Have you ever been to a historical reenactment?
+Is astronomy your favorite branch of science?
+Do you enjoy going to the circus?
+Have you ever tried a new type of dance and enjoyed it?
+Is playing video games a way you relax?
+Do you like going to outdoor concerts?
+Have you ever participated in a school science project?
+Is playing a musical instrument something you aspire to learn?
+Do you enjoy going to art and craft fairs?
+Have you ever tried a new outdoor activity and liked it?
+Is computer animation something you find fascinating?
+Do you like going to family gatherings?
+Have you ever been to a sports stadium?
+Is writing short stories something you enjoy?
+Do you like going to holiday events?
+Have you ever tried a new type of workout and enjoyed it?
+Is learning about different cultures interesting to you?
